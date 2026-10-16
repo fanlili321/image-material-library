@@ -1,0 +1,4 @@
+interface:
+  display_name: "Image Material Library"
+  short_description: "Search an authorized local PPT image library"
+  default_prompt: "Use $image-material-library to find reusable images in my authorized local library."
