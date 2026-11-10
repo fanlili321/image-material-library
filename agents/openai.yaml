@@ -1,4 +1,4 @@
 interface:
-  display_name: "Image Material Library"
-  short_description: "Search an authorized local PPT image library"
-  default_prompt: "Use $image-material-library to find reusable images in my authorized local library."
+  display_name: "PPT历史配图库"
+  short_description: "按关键词检索并复用三类历史 PPT 配图"
+  default_prompt: "使用 $image-material-library 从公募直播、私募直播和对外演讲历史 PPT 中搜索并复用合适的图片。"
